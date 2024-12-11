@@ -1,4 +1,4 @@
-# BHAIMLPC
+# BHAIMLPC 5.1
 Berkeley AI ML 
 # Assignment 5.1: Will the Customer Accept the Coupon?
 This program, seeks to answer the question, “Will a customer accept the coupon?” The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not. 
