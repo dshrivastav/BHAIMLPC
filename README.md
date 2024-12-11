@@ -10,6 +10,11 @@ This data is from the UCI Machine Learning Repository and was collected via a su
 “No, I do not want the coupon”
 The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 
+# Data exploration and preparation
+The data had some missing values, and especially the car column is missing a large number of values, hence not useful for any analysis.
+Cleaned the data by dropping the rows with null values except Car. If car column is included for dropping the values then pretty much all rows would get dropped, hence skipped it.
+Converted the age and income columns to numneric values so arithmentic operators could be applied to them.
+
 # Summary and Hypothesis
 Based on the analyses and observations, we can hypothesize the following about drivers who accepted bar coupons:
 
@@ -32,4 +37,12 @@ Drivers who exhibit higher frequencies of leisure activities (like eating at che
 
 ## Bar coupon Summary Hypothesis 
 Drivers who accepted bar coupons are generally younger, socially active, price-conscious, and often accompanied by friends or partners. They are more likely to engage in leisure activities, live in urban or suburban settings, and demonstrate higher acceptance of promotions aligned with their lifestyle preferences.
+
+## CarryAway coupon summary hypothesis
+Based on a similar analysis for the Carry Away coupons, it is clear that this type of coupon had a pretty high acceptance rate of 73.77%. Overall, factors like kids and age did not impact the carry away coupon acceptance rate. However, it appears that people from urban and sub-urban background are more likely to accept carry out and take away coupons than those who are in farming, fishing and rural background.
+
+## Recommendations
+Given that the driver behaviors and demographics correlate with higher coupon acceptance rates, following is recommended for marketing purposes.
+1. Bar coupons be marketed to younger drivers, who are socially active, price conscious
+2. Both Bar and CarryAway coupons be targeted for drivers in urban and sub-urban setting.
 
