@@ -40,7 +40,7 @@ Drivers who exhibit higher frequencies of leisure activities (like eating at che
 ## 1. Drivers who accepted Bar coupons 
 Drivers who accepted bar coupons are generally younger, socially active, price-conscious, and often accompanied by friends or partners. They are more likely to engage in leisure activities, live in urban or suburban settings, and demonstrate higher acceptance of promotions aligned with their lifestyle preferences.
 
-## 2. CDrivers who accepted CarryAway coupons
+## 2. Drivers who accepted CarryAway coupons
 Based on a similar analysis for the Carry Away coupons, it is clear that this type of coupon had a pretty high acceptance rate of 73.77%. Overall, factors like kids and age did not impact the carry away coupon acceptance rate. However, it appears that people from urban and sub-urban background are more likely to accept carry out and take away coupons than those who are in farming, fishing and rural background.
 
 ## 3. Recommendations
